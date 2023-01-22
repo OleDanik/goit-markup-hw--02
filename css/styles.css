@@ -177,7 +177,8 @@ ul {
    border-radius: 4px;
 }
 
-.filter-bottons:hover{
+.filter-bottons:hover,
+.filter-bottons:focus{
 	background-color: var(--color-brand);
 	color: var(--color-white);
 }
